@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Dipesh B C",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
 }
